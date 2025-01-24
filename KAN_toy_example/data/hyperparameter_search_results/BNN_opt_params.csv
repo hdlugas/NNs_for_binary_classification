@@ -1,0 +1,2 @@
+"NUM.EPOCHS","LR","N.NEURONS","ACT.FUNC","KL.WEIGHT"
+"20","0.01","5","relu","0.01"
