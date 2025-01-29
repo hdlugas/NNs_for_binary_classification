@@ -37,7 +37,7 @@ conda deactivate
 
 <a name="input-data-description"></a>
 ### 3.1 Description of input data
-Our workflow can be applied to any tabular data with rows corresponding to observations and columns corresponding to features. In our study specifically, rows correspond to samples analyzed using mass spectrometry techniques, columns correspond to metabolite, and cells correspond to the abundance of the given metabolite in the given sample. A toy dataset can be found ___.
+Our workflow can be applied to any tabular data with rows corresponding to observations and columns corresponding to features. In our study specifically, rows correspond to samples analyzed using mass spectrometry techniques, columns correspond to metabolite, and cells correspond to the abundance of the given metabolite in the given sample. A toy dataset is provided: toy_example/data/raw_toy_data.csv.
 
 <a name="preprocessing-transformations"></a>
 ### 3.2 Preprocessing transformations
